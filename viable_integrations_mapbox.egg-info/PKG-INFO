@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: viable-integrations-mapbox
+Version: 1.0.0
+Summary: Mapbox integration for Viable Cloud API
+Home-page: https://github.com/viableindustries/viable-integrations-mapbox
+Author: Viable Industries, L.L.C.
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Keywords: python setuptools package installer pip mapbox viablecloudapi
+Platform: UNKNOWN
